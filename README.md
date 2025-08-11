@@ -73,19 +73,19 @@ SquidGame.exe
 
 ## 🖼 Screenshots
 
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](main_menu.png)
 *Main menu with clickable buttons*
 
-![Red Light Green Light](screenshots/doll.png)
+![Red Light Green Light](doll.png)
 *Bridge crossing gameplay*
 
-![Player Crossing Bridge](screenshots/bridge.png)
+![Player Crossing Bridge](bridge.png)
 *Player navigating the bridge obstacles*
 
-![Dolgana Candy](screenshots/dolgana1.png)
+![Dolgana Candy](dolgana1.png)
 *Game over screen with restart option*
 
-![Dolgana Candy](screenshots/dolgana2.png)
+![Dolgana Candy](dolgana2.png)
 *Victory screen after successful bridge crossing*
 
 
